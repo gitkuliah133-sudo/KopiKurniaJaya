@@ -1,0 +1,6 @@
+{
+  "name": "KKJ Express — Rider Workspace",
+  "description": "Aplikasi Point of Sale (POS) dan manajemen operasional harian untuk rider KKJ Express.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
